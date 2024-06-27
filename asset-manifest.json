@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/city-tours/static/css/main.b5733520.css",
+    "main.js": "/city-tours/static/js/main.de7d9150.js",
+    "static/js/453.e5452eb5.chunk.js": "/city-tours/static/js/453.e5452eb5.chunk.js",
+    "static/media/City3.jpeg": "/city-tours/static/media/City3.e75f61fc29c63b574a2f.jpeg",
+    "static/media/City4.jpeg": "/city-tours/static/media/City4.51bd5b9c1e7ec8104082.jpeg",
+    "index.html": "/city-tours/index.html",
+    "main.b5733520.css.map": "/city-tours/static/css/main.b5733520.css.map",
+    "main.de7d9150.js.map": "/city-tours/static/js/main.de7d9150.js.map",
+    "453.e5452eb5.chunk.js.map": "/city-tours/static/js/453.e5452eb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5733520.css",
+    "static/js/main.de7d9150.js"
+  ]
+}
